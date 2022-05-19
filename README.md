@@ -21,4 +21,4 @@ An example is provided in the SampleClient.cpp
 ## More Info
 
 This project was done as part of Operating Systems coarse in the Hebrew university of Jerusalem.
-It is a multiprocessing program that can be used for different jobs. As an example counting the number of timed each letter appear in some text.
+It is a multithreaded program that can be used for different jobs. As an example counting the number of timed each letter appear in some text.
